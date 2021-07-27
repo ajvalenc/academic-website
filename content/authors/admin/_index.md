@@ -17,6 +17,7 @@ interests:
   - Manipulation
   - Visual Computing
   - Machine Learning
+  - Artificial Intelligence
 social:
   - icon: envelope
     icon_pack: fas
@@ -46,7 +47,7 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a PhD candidate of electrical and computer engineering at the University of Ottawa and member of the [SMART](http://www.site.uottawa.ca/~ppayeur/SMART/) research group led by [Pierre Payeur](http://www.site.uottawa.ca/~ppayeur/). My research interests are in the areas of robotics, vision and machine learning. I am currently developing methods for modeling and perception of deformable objects in the context of robotic manipulation.
+I am a PhD candidate of electrical and computer engineering at the University of Ottawa and member of the [SMART](http://www.site.uottawa.ca/~ppayeur/SMART/) research group led by [Pierre Payeur](http://www.site.uottawa.ca/~ppayeur/). My research interests are in the areas of robotics, vision and learning. I am currently developing methods for modeling and perception of deformable objects in the context of robotic manipulation.
 
 I am especially interested in working to increase the autonomy of robots in unstructured environments.
 
