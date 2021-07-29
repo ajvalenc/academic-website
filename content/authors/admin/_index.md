@@ -49,7 +49,7 @@ user_groups:
 ---
 I am a PhD candidate of electrical and computer engineering at the University of Ottawa and member of the [SMART](http://www.site.uottawa.ca/~ppayeur/SMART/) research group led by [Pierre Payeur](http://www.site.uottawa.ca/~ppayeur/). My research interests are in the areas of robotics, vision and learning. I am currently developing methods for modeling and perception of deformable objects in the context of robotic manipulation.
 
-I am especially interested in working to increase the autonomy of robots in unstructured environments.
+I am especially interested in working towards increasing the autonomy of robots in unstructured environments.
 
 P.S. My first name is pronounced "ahn-hell"
 
